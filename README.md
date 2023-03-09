@@ -1,2 +1,2 @@
 # odin-recipes
-recipes for odin 
+The current project is for me to make a website that contains a few recipes. 
